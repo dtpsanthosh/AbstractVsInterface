@@ -12,3 +12,10 @@ public class Test {
 		sbi.calculateInterest();
 	}
 }
+/*	OUTPUT
+	Common Deposit Method implementation for all banks
+	Common Withdraw Method implementation for all banks
+	HDFC Bank Calculate Interest Implementation
+	Common Deposit Method implementation for all banks
+	Common Withdraw Method implementation for all banks
+	SBI Bank Calculate Interest Implementation*/
