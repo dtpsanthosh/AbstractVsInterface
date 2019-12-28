@@ -6,6 +6,7 @@ abstract class Bank {
 	}
 	public void withdraw() {
 		System.out.println("Common Withdraw Method implementation for all banks");
+		System.out.println("");
 	}
 	public abstract int calculateInterest();
 }
